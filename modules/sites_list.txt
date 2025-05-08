@@ -1,4 +1,0 @@
-https://github.com/{username}
-https://twitter.com/{username}
-https://instagram.com/{username}
-https://reddit.com/user/{username}
